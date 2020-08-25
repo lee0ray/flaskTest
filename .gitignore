@@ -1,0 +1,6 @@
+runtime/logs/*
+*.exe
+*~
+.idea/
+*.zip
+*.jpg
